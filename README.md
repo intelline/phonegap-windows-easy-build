@@ -1,4 +1,4 @@
-phonegap-windows-easy-build
+Phonegap windows easy apk file build
 ===========================
 
 This repository contains a build.bat file that makes your work with phonegap easier.
